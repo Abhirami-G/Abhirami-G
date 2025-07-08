@@ -17,7 +17,7 @@
 
 ## 📫 Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AbhiramiG-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/abhiramig)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/abhiramig)  
 [![Email](https://img.shields.io/badge/Email-abhirami@email.com-red?logo=gmail&style=for-the-badge)](mailto:abhirami@email.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-Abhirami--G-black?logo=github&style=for-the-badge)](https://github.com/Abhirami-G)
 
