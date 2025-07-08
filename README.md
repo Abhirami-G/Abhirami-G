@@ -9,7 +9,7 @@
 
 ## 🚀 My Projects
 
-- 🧾 [AWS Static Website](https://github.com/Abhirami-G/aws-static-site) — hosted personal site using S3
+- 🧾 [AWS Static Website](https://github.com/Abhirami-G/aws-static-website) — hosted personal site using S3
 - 💻 [EC2 Server Setup](https://github.com/Abhirami-G/ec2-ssh-demo) — launched Linux instance and configured it
 - 🔐 IAM Role Practice — coming soon!
 
