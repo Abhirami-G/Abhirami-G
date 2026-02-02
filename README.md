@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhirami R
 
-🌩️ Aspiring **Cloud Support Specialist**  
+🌩️ Aspiring **Cloud Support Specialist|Solution Architect**  
 🧠 AWS Certified | EC2 • S3 • IAM • CLI  
 💼 Previously at Byju's | Assistant Manager  
 📍 Based in Bangalore, India
