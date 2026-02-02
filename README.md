@@ -23,6 +23,3 @@
 
 ---
 
-🖥️ **Check out my portfolio:**  
-📁 [Hosted on AWS S3](http://abhirami-static-site.s3-website.ap-south-1.amazonaws.com)
-
